@@ -6,7 +6,7 @@
 ### 📱 Responsive Design  
 ### 🌙 Dark Netflix Theme  
 
-## ⚡ Tech Stack  
+## ⚡ Tech StackS
 ### 🧩 HTML  
 ### 🎨 CSS  
 ### ⚡ JavaScript  
